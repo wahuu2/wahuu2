@@ -3,10 +3,13 @@
 # 💫 About Me:
 👩‍💻 Hi, I’m Lily <br>🌍 An aspiring  Software Engineer (Mobile & Full-Stack) from Kenya<br>💡 Passionate about building inclusive, sustainable, and community‑focused tech solutions<br>⚡ Skilled in React Native, PHP, MySQL, and UI/UX design<br>🚀 Currently working on academic + independent projects that adapt global frameworks to local contexts<br>📈 Goal: Use technology to empower communities and strengthen institutions
 
-## 📌 Featured Projects
-- **Hotel Management System** – Secure booking & payments  
-- **Mobile Repair System** – Automated orders & customer management  
-- **Chemist Website** – Localized medical e-commerce platform
+📌 **Featured Projects**
+
+- **Hotel Management System** – A secure booking platform with online payment integration and admin dashboard for managing reservations, rooms, and customers.  
+- **Mobile Repair System** – Automated order processing and customer management for a mobile repair shop, including real-time status updates and service tracking.  
+- **Chemist Website** – Localized e-commerce platform for medicines and health products, with inventory management, prescriptions upload, and online payments.  
+- **Todo List App** – Cross-platform React Native app to manage daily tasks with priorities, deadlines, dark mode, real-time sync, and progress tracking.  
+- **Expense Tracker App** – Full-stack mobile application built with React Native and Express; features authentication, income/expense tracking, analytics dashboard, and transaction management.  
 
 
 # 💻 Tech Stack:
