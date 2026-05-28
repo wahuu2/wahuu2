@@ -6,6 +6,7 @@
 📌 **Featured Projects**
 
 - **To‑Do App (HTML, CSS, JS)** – A simple, elegant, and responsive task management app with localStorage persistence, allowing users to add, complete, delete, and clear tasks across mobile and desktop.
+- **Calculator (HTML, CSS, JS)** – A simple, elegant, and responsive calculator app with support for basic arithmetic operations, clear/delete functions, and a light/dark mode toggle, built for smooth DOM manipulation and mobile‑friendly design.
 - **Hotel Management System** – A secure booking platform with online payment integration and admin dashboard for managing reservations, rooms, and customers.
 - **Mobile Repair System** – Automated order processing and customer management for a mobile repair shop, including real-time status updates and service tracking.  
 - **Chemist Website** – Localized e-commerce platform for medicines and health products, with inventory management, prescriptions upload, and online payments.  
