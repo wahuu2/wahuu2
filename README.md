@@ -1,13 +1,9 @@
-## Hi there 👋
+## Heeey 👋
 
 # 💫 About Me:
 👩‍💻 Hi, I’m Lily <br>🌍 An aspiring  Software Engineer (Mobile & Full-Stack) from Kenya<br>💡 Passionate about building inclusive, sustainable, and community‑focused tech solutions<br>⚡ Skilled in React Native, PHP, MySQL, and UI/UX design<br>🚀 Currently working on academic + independent projects that adapt global frameworks to local contexts<br>📈 Goal: Use technology to empower communities and strengthen institutions
 
 📌 **Featured Projects**
-
-- **To‑Do App (HTML, CSS, JS)** – A simple, elegant, and responsive task management app with localStorage persistence, allowing users to add, complete, delete, and clear tasks across mobile and desktop.
-- **Calculator (HTML, CSS, JS)** – A simple, elegant, and responsive calculator app with support for basic arithmetic operations, clear/delete functions, and a light/dark mode toggle, built for smooth DOM manipulation and mobile‑friendly design.
-- **Quiz App (HTML, CSS, JS)** – A simple, engaging, and responsive quiz application with multiple sections, dynamic questions, score tracking, progress bar, and result screen, built with DOM manipulation and event handling for mobile and desktop.
 - **Hotel Management System** – A secure booking platform with online payment integration and admin dashboard for managing reservations, rooms, and customers.
 - **Mobile Repair System** – Automated order processing and customer management for a mobile repair shop, including real-time status updates and service tracking.  
 - **Chemist Website** – Localized e-commerce platform for medicines and health products, with inventory management, prescriptions upload, and online payments.  
