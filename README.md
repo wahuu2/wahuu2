@@ -2,23 +2,24 @@
 
 ### Junior Web Developer | ICT Graduate | Aspiring Full-Stack Developer
 I'm an ICT graduate from Kenya with a growing passion for **web application development, modern frontend technologies, and practical software solutions**.
+
 I enjoy turning ideas into functional, responsive applications and learning by building real projects. My current focus is on **React, Next.js, TypeScript, Tailwind CSS, MongoDB, and modern web development practices**.
+
 I'm particularly interested in building technology that solves practical problems for businesses, organizations, and communities.
 
 ---
 
 ## About Me
 
-* Junior Web Developer and ICT graduate from Kenya  
-* Currently strengthening my skills in **Next.js, TypeScript, React, MongoDB, and full-stack development**  
-* Building responsive web applications with **React and Next.js**  
-* Working with **MongoDB, Mongoose, and MySQL**  
-* Learning and implementing authentication with **Clerk**  
-* Interested in **UI/UX and responsive web design**  
-* Enjoy debugging, problem-solving, and learning through practical projects  
-* Using **Git and GitHub** to manage and document my development work  
-* Continuously learning new technologies and improving my development workflow  
-* Based in Kenya  
+- Junior Web Developer and ICT graduate from Kenya  
+- Strengthening skills in **Next.js, TypeScript, React, MongoDB, and full‑stack development**  
+- Building responsive web applications with **React and Next.js**  
+- Working with **MongoDB, Mongoose, and MySQL**  
+- Learning authentication with **Clerk**  
+- Interested in **UI/UX and responsive design**  
+- Enjoy debugging and problem‑solving through practical projects  
+- Using **Git and GitHub** for version control and documentation  
+- Continuously improving my workflow and learning new technologies   
 
 ---
 
