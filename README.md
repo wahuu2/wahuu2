@@ -95,7 +95,7 @@ A mobile application project for managing personal income and expenses.
 * Build again, better.
 ---
 
-# #Connect With Me
+## Connect With Me
 * GitHub: github.com/wahuu2  
 * Email: lilywahu1@gmail.com  
 * Location: Kenya 🇰🇪
