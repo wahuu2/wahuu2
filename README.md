@@ -29,17 +29,7 @@ I'm particularly interested in building technology that solves practical problem
 
 ---
 ### Event Management Application  
-**Next.js • TypeScript • React • Tailwind CSS • MongoDB • Mongoose • Clerk**  
-A full-stack event management application currently under development.  
-* User authentication with Clerk  
-* Protected application areas  
-* Event-related functionality  
-* MongoDB database integration  
-* Mongoose data models  
-* Responsive React components  
-* Next.js App Router  
-* API routes  
-* TypeScript-based development  
+The Event Management Application is a full‑stack project currently under development, designed to provide secure and efficient event handling. It features user authentication powered by Clerk, protected application areas, and comprehensive event‑related functionality. The backend integrates MongoDB with Mongoose data models, while the frontend leverages responsive React components styled with Tailwind CSS. Built using Next.js with the App Router and TypeScript, the application also includes API routes to support dynamic operations, making it a robust and scalable solution for managing events. 
 
 ---
 
