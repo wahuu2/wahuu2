@@ -23,24 +23,21 @@ I'm particularly interested in building technology that solves practical problem
 
 ---
 
-## Featured Projects
-### Event Management Application  
-The Event Management Application is a full‑stack project currently under development, designed to provide secure and efficient event handling. It features user authentication powered by Clerk, protected application areas, and comprehensive event‑related functionality. The backend integrates MongoDB with Mongoose data models, while the frontend leverages responsive React components styled with Tailwind CSS. Built using Next.js with the App Router and TypeScript, the application also includes API routes to support dynamic operations, making it a robust and scalable solution for managing events. 
+## 📌 Featured Projects
+
+### Event Management Application - Full‑stack Next.js app with Clerk authentication, MongoDB/Mongoose integration, responsive React components, and API routes for secure event handling.  
 
 ---
 
-### Hotel Management System  
-The Hotel Management System is a modern web application built with Next.js, TypeScript, React, Tailwind CSS, and MongoDB, designed to streamline hospitality workflows. It features a responsive user interface, hotel services and management functionality, and reusable React components for scalability. The application leverages MongoDB for database integration and follows a structured Next.js architecture, with responsive styling handled through Tailwind CSS to ensure a seamless experience across devices.
+### Hotel Management System - Modern hospitality app built with Next.js, TypeScript, React, Tailwind CSS, and MongoDB. Features responsive UI, service management, and reusable components.  
 
 ---
 
-###  Mobile Repair Management System  
-The Mobile Repair Management System is a database‑driven application built with PHP, MySQL, HTML, CSS, and JavaScript to help mobile phone repair businesses organize their operations more efficiently. It provides functionality for customer management, repair records, order tracking, payment records, and repair history, all supported by a structured database. This project strengthened my understanding of backend development, relational databases, and business‑oriented application workflows while delivering a practical solution for service management.
+### Mobile Repair Management System - PHP/MySQL application for mobile repair shops. Includes customer management, repair records, order tracking, and payment history.  
 
 ---
 
-###  Expense Tracker Mobile App  
-The Expense Tracker Mobile App is built with React Native, Expo, and Clerk to help users manage personal income and expenses effectively. It includes secure user authentication, income and expense tracking, and transaction management features, all supported by a streamlined mobile UI. Developed using the Expo workflow, the project provided practical experience in mobile application development and demonstrated how modern tools can be combined to deliver a responsive, user‑friendly financial management solution. 
+### Expense Tracker Mobile App - React Native + Expo app with Clerk authentication. Tracks income, expenses, and transactions with a streamlined mobile UI.  
 
 ---
 
