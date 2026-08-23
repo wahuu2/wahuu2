@@ -25,19 +25,15 @@ I'm particularly interested in building technology that solves practical problem
 
 ## 📌 Featured Projects
 
-### Event Management Application - Full‑stack Next.js app with Clerk authentication, MongoDB/Mongoose integration, responsive React components, and API routes for secure event handling.  
+- **Event Management Application** – Full‑stack Next.js app with Clerk authentication and MongoDB/Mongoose integration. Provides secure event handling with responsive React components and API routes. Designed for scalability, it supports protected areas, dynamic operations, and TypeScript‑based development.  
 
----
+- **Hotel Management System** – Modern hospitality app built with Next.js, TypeScript, React, Tailwind CSS, and MongoDB. Features responsive UI, service management, and reusable components. Built to streamline hotel workflows, it integrates a structured database and ensures seamless cross‑device performance.  
 
-### Hotel Management System - Modern hospitality app built with Next.js, TypeScript, React, Tailwind CSS, and MongoDB. Features responsive UI, service management, and reusable components.  
+- **Mobile Repair Management System** – PHP/MySQL application for mobile repair shops. Manages customers, repair records, orders, and payments with a structured database. Strengthened backend and relational database skills while delivering a practical solution for service management.  
 
----
+- **Expense Tracker Mobile App** – React Native + Expo app with Clerk authentication. Tracks income, expenses, and transactions through a streamlined mobile interface. Provides secure login, intuitive UI, and practical exposure to mobile development workflows.  
+  
 
-### Mobile Repair Management System - PHP/MySQL application for mobile repair shops. Includes customer management, repair records, order tracking, and payment history.  
-
----
-
-### Expense Tracker Mobile App - React Native + Expo app with Clerk authentication. Tracks income, expenses, and transactions with a streamlined mobile UI.  
 
 ---
 
