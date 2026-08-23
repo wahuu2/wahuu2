@@ -10,27 +10,27 @@ I'm particularly interested in building technology that solves practical problem
 
 ---
 
-## 💻 About Me
+## About Me
 
-* 👩‍💻 Junior Web Developer and ICT graduate from Kenya  
-* 🌱 Currently strengthening my skills in **Next.js, TypeScript, React, MongoDB, and full-stack development**  
-* ⚛️ Building responsive web applications with **React and Next.js**  
-* 🗄️ Working with **MongoDB, Mongoose, and MySQL**  
-* 🔐 Learning and implementing authentication with **Clerk**  
-* 🎨 Interested in **UI/UX and responsive web design**  
-* 🛠️ Enjoy debugging, problem-solving, and learning through practical projects  
-* 🚀 Using **Git and GitHub** to manage and document my development work  
-* 📚 Continuously learning new technologies and improving my development workflow  
-* 🇰🇪 Based in Kenya  
+* Junior Web Developer and ICT graduate from Kenya  
+* Currently strengthening my skills in **Next.js, TypeScript, React, MongoDB, and full-stack development**  
+* Building responsive web applications with **React and Next.js**  
+* Working with **MongoDB, Mongoose, and MySQL**  
+* Learning and implementing authentication with **Clerk**  
+* Interested in **UI/UX and responsive web design**  
+* Enjoy debugging, problem-solving, and learning through practical projects  
+* Using **Git and GitHub** to manage and document my development work  
+* Continuously learning new technologies and improving my development workflow  
+* Based in Kenya  
 
 ---
 
 #  Featured Projects
 
+---
 ### Event Management Application  
 **Next.js • TypeScript • React • Tailwind CSS • MongoDB • Mongoose • Clerk**  
 A full-stack event management application currently under development.  
-
 * User authentication with Clerk  
 * Protected application areas  
 * Event-related functionality  
@@ -46,7 +46,6 @@ A full-stack event management application currently under development.
 ### Hotel Management System  
 **Next.js • TypeScript • React • Tailwind CSS • MongoDB**  
 A modern hotel management application designed around practical hospitality workflows.  
-
 * Responsive user interface  
 * Hotel services and management functionality  
 * Reusable React components  
@@ -59,7 +58,6 @@ A modern hotel management application designed around practical hospitality work
 ###  Mobile Repair Management System  
 **PHP • MySQL • HTML • CSS • JavaScript**  
 A database-driven application designed to help a mobile phone repair business organize its operations.  
-
 * Customer management  
 * Repair records  
 * Order tracking  
@@ -72,7 +70,6 @@ A database-driven application designed to help a mobile phone repair business or
 ###  Expense Tracker Mobile App  
 **React Native • Expo • Clerk**  
 A mobile application project for managing personal income and expenses.  
-
 * User authentication  
 * Income and expense tracking  
 * Transaction management  
@@ -90,8 +87,7 @@ A mobile application project for managing personal income and expenses.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wahuu2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-# Learning Philosophy
-
+## Learning Philosophy
 * Learn by building.
 * Break things.
 * Debug them.
@@ -99,13 +95,13 @@ A mobile application project for managing personal income and expenses.
 * Build again, better.
 ---
 
-# Connect With Me
+# #Connect With Me
 * GitHub: github.com/wahuu2  
 * Email: lilywahu1@gmail.com  
 * Location: Kenya 🇰🇪
 
 ---
-# If you find my projects useful or interesting, feel free to explore my repositories.
+### If you find my projects useful or interesting, feel free to explore my repositories.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wahuu2&icon=0&color=0)](https://visitcount.itsvg.in)
