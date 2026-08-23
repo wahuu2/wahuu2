@@ -1,84 +1,199 @@
-👋 Hi, I'm Lily Wahu Ngugi
-Junior Web Developer | ICT Graduate | Aspiring Full-Stack Developer
+# 👋 Hi, I'm Lily Wahu Ngugi
 
-I'm an ICT graduate from Kenya with a growing passion for web application development, modern frontend technologies, and practical software solutions.
+### Junior Web Developer | ICT Graduate | Aspiring Full-Stack Developer
 
-I enjoy turning ideas into functional, responsive applications and learning by building real projects. My current focus is on React, Next.js, TypeScript, Tailwind CSS, MongoDB, and modern web development practices.
+I'm an ICT graduate from Kenya with a growing passion for **web application development, modern frontend technologies, and practical software solutions**.
+
+I enjoy turning ideas into functional, responsive applications and learning by building real projects. My current focus is on **React, Next.js, TypeScript, Tailwind CSS, MongoDB, and modern web development practices**.
 
 I'm particularly interested in building technology that solves practical problems for businesses, organizations, and communities.
 
-💻 About Me
-👩‍💻 Junior Web Developer and ICT graduate from Kenya
-🌱 Currently strengthening my skills in Next.js, TypeScript, React, MongoDB, and full-stack development
-⚛️ Building responsive web applications with React and Next.js
-🗄️ Working with MongoDB, Mongoose, and MySQL
-🔐 Learning and implementing authentication with Clerk
-🎨 Interested in UI/UX and responsive web design
-🛠️ Enjoy debugging, problem-solving, and learning through practical projects
-🚀 Using Git and GitHub to manage and document my development work
-📚 Continuously learning new technologies and improving my development workflow
-🇰🇪 Based in Kenya
+---
 
-📌 **Featured Projects**
-Event Management Application
+## 💻 About Me
 
-Next.js • TypeScript • React • Tailwind CSS • MongoDB • Mongoose • Clerk
+* 👩‍💻 Junior Web Developer and ICT graduate from Kenya  
+* 🌱 Currently strengthening my skills in **Next.js, TypeScript, React, MongoDB, and full-stack development**  
+* ⚛️ Building responsive web applications with **React and Next.js**  
+* 🗄️ Working with **MongoDB, Mongoose, and MySQL**  
+* 🔐 Learning and implementing authentication with **Clerk**  
+* 🎨 Interested in **UI/UX and responsive web design**  
+* 🛠️ Enjoy debugging, problem-solving, and learning through practical projects  
+* 🚀 Using **Git and GitHub** to manage and document my development work  
+* 📚 Continuously learning new technologies and improving my development workflow  
+* 🇰🇪 Based in Kenya  
 
-A full-stack event management application currently under development.
+---
 
-User authentication with Clerk
-Protected application areas
-Event-related functionality
-MongoDB database integration
-Mongoose data models
-Responsive React components
-Next.js App Router
-API routes
-TypeScript-based development
+# 🚀 Featured Projects
 
-Hotel Management System
+### 🎫 Event Management Application  
+**Next.js • TypeScript • React • Tailwind CSS • MongoDB • Mongoose • Clerk**  
+A full-stack event management application currently under development.  
 
-Next.js • TypeScript • React • Tailwind CSS • MongoDB
+* User authentication with Clerk  
+* Protected application areas  
+* Event-related functionality  
+* MongoDB database integration  
+* Mongoose data models  
+* Responsive React components  
+* Next.js App Router  
+* API routes  
+* TypeScript-based development  
 
-A modern hotel management application designed around practical hospitality workflows.
+🔗 [View Repository](https://github.com/wahuu2)
 
-Responsive user interface
-Hotel services and management functionality
-Reusable React components
-MongoDB database integration
-Next.js application architecture
-Responsive styling with Tailwind CSS
+---
 
-I am developing this project as part of my transition toward modern full-stack web development.
+### 🏨 Hotel Management System  
+**Next.js • TypeScript • React • Tailwind CSS • MongoDB**  
+A modern hotel management application designed around practical hospitality workflows.  
 
-Mobile Repair Management System
+* Responsive user interface  
+* Hotel services and management functionality  
+* Reusable React components  
+* MongoDB database integration  
+* Next.js application architecture  
+* Responsive styling with Tailwind CSS  
 
-PHP • MySQL • HTML • CSS • JavaScript
+---
 
-A database-driven application designed to help a mobile phone repair business organize its operations.
+### 📱 Mobile Repair Management System  
+**PHP • MySQL • HTML • CSS • JavaScript**  
+A database-driven application designed to help a mobile phone repair business organize its operations.  
 
-Customer management
-Repair records
-Order tracking
-Payment records
-Repair history
-Database-driven functionality
+* Customer management  
+* Repair records  
+* Order tracking  
+* Payment records  
+* Repair history  
+* Database-driven functionality  
 
-This project helped me strengthen my understanding of PHP, MySQL, databases, and business-oriented application development.
+---
 
-Expense Tracker Mobile App
+### 💊 Kenyan Chemist Website  
+**PHP • HTML • CSS • JavaScript • PHPMailer • SMTP**  
+A localized web project adapted for a Kenyan business context.  
 
-React Native • Expo • Clerk
+* Responsive website design  
+* Localized content and interface  
+* Backend email functionality using PHPMailer and SMTP  
+* Focus on usability and clear presentation  
 
-A mobile application project for managing personal income and expenses.
+---
 
-User authentication
-Income and expense tracking
-Transaction management
-Mobile UI development
-Expo development workflow
+### 🏠 Kilimani Property Listings  
+**React • Next.js • Tailwind CSS • MongoDB**  
+A property-listing project designed around a Nairobi/Kilimani context.  
 
-This project gave me practical exposure to React Native and mobile application development.
+* Responsive property listings  
+* Localized demonstration data  
+* Property information and amenities  
+* React-based interface  
+* Tailwind CSS styling  
+* MongoDB integration  
+
+---
+
+### 💰 Expense Tracker Mobile App  
+**React Native • Expo • Clerk**  
+A mobile application project for managing personal income and expenses.  
+
+* User authentication  
+* Income and expense tracking  
+* Transaction management  
+* Mobile UI development  
+* Expo development workflow  
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+
+### Backend & Databases  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+
+### Mobile Development  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)  
+
+### Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+
+### Additional Exposure  
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=wahuu2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=wahuu2&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wahuu2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+
+---
+
+# 🎯 Current Focus
+
+```text
+Frontend Development
+        ↓
+React + TypeScript
+        ↓
+Next.js + Tailwind CSS
+        ↓
+MongoDB + Mongoose
+        ↓
+Authentication + APIs
+        ↓
+Full-Stack Applications
+Currently focusing on:
+
+Building stronger Next.js applications
+
+Improving TypeScript skills
+
+Working with MongoDB and Mongoose
+
+Understanding APIs and backend architecture
+
+Improving UI/UX implementation
+
+Learning deployment and production workflows
+
+Building projects that solve real-world problems
+
+🌱 Learning Philosophy
+Learn by building.
+Break things.
+Debug them.
+Understand why they broke.
+Build again, better.
+
+📫 Connect With Me
+GitHub: github.com/wahuu2  
+Email: lilywahu1@gmail.com  
+Location: Kenya 🇰🇪
+
+⭐ If you find my projects useful or interesting, feel free to explore my repositories.
 
 
 # 💻 Tech Stack:
