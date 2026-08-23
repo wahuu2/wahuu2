@@ -151,49 +151,24 @@ A mobile application project for managing personal income and expenses.
 
 ---
 
-# 🎯 Current Focus
 
-```text
-Frontend Development
-        ↓
-React + TypeScript
-        ↓
-Next.js + Tailwind CSS
-        ↓
-MongoDB + Mongoose
-        ↓
-Authentication + APIs
-        ↓
-Full-Stack Applications
-Currently focusing on:
 
-Building stronger Next.js applications
+#Learning Philosophy
 
-Improving TypeScript skills
+*Learn by building.
+*Break things.
+*Debug them.
+*Understand why they broke.
+*Build again, better.
+---
 
-Working with MongoDB and Mongoose
+# Connect With Me
+* GitHub: github.com/wahuu2  
+* Email: lilywahu1@gmail.com  
+* Location: Kenya 🇰🇪
 
-Understanding APIs and backend architecture
-
-Improving UI/UX implementation
-
-Learning deployment and production workflows
-
-Building projects that solve real-world problems
-
-🌱 Learning Philosophy
-Learn by building.
-Break things.
-Debug them.
-Understand why they broke.
-Build again, better.
-
-📫 Connect With Me
-GitHub: github.com/wahuu2  
-Email: lilywahu1@gmail.com  
-Location: Kenya 🇰🇪
-
-⭐ If you find my projects useful or interesting, feel free to explore my repositories.
+---
+# If you find my projects useful or interesting, feel free to explore my repositories.
 
 
 # 💻 Tech Stack:
